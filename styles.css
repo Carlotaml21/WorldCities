@@ -1,0 +1,34 @@
+.banner {
+    height: 300px; 
+    overflow: hidden;
+    margin: 0 !important;
+    padding: 0 !important;
+
+}
+.banner img {
+    position: absolute;;
+    height: 100%; 
+    width: 100%; 
+    object-fit: cover;
+}
+
+.banner h2 {
+    z-index: 1; 
+}
+
+.fixed-image {
+    height: 200px;
+    object-fit: cover; 
+}
+.fixed-card {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.row-gap-4 > * {
+    margin-bottom: 1rem;
+}
+
+

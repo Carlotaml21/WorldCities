@@ -41,6 +41,7 @@ A professional footer featuring:
 
 ## Demo
 You can access a live demo of the template using the link below:
+https://carlotaml21.github.io/WorldCities/
 
 
 ---
